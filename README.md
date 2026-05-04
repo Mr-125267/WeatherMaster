@@ -2,7 +2,7 @@
    <img src="https://github.com/PranshulGG/WeatherMaster/blob/master/preview/readme_app_icon.svg" alt="" width="150px">
 </div>
 <h1 align="center">
- WeatherMaster
+ 氢 weather
 </h1>
    <div  align="center">
       <img src="https://img.shields.io/github/license/PranshulGG/WeatherMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
