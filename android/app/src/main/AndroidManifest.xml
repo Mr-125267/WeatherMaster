@@ -14,7 +14,7 @@
 
 
     <application
-        android:label="Weather Master"
+        android:label="氢 weather"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
